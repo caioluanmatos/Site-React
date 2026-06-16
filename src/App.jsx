@@ -6,6 +6,6 @@ import './App.css'
 
 export default function App() {
   return (
-    <h1>Meu primeiro React funcionando 🚀</h1>
+    <><h1>Meu primeiro React funcionando 🚀</h1><p>ola</p></>
   )
 }
